@@ -1,0 +1,6 @@
+C:\Users\J\Documents\GitHub\farming-program\ValetProgram\ValetProgram\bin\Debug\ValetProgram.exe.config
+C:\Users\J\Documents\GitHub\farming-program\ValetProgram\ValetProgram\obj\Debug\ValetProgram.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\GitHub\farming-program\ValetProgram\ValetProgram\bin\Debug\ValetProgram.exe
+C:\Users\J\Documents\GitHub\farming-program\ValetProgram\ValetProgram\bin\Debug\ValetProgram.pdb
+C:\Users\J\Documents\GitHub\farming-program\ValetProgram\ValetProgram\obj\Debug\ValetProgram.exe
+C:\Users\J\Documents\GitHub\farming-program\ValetProgram\ValetProgram\obj\Debug\ValetProgram.pdb
